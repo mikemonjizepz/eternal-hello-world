@@ -7,4 +7,4 @@ Within this repository, as you venture deeper into its virtual catacombs, you'll
 
 As you approach this sacred text, you may feel a sense of camaraderie with programmers past and present, as if you're joining an exclusive club of coding aficionados. The message, though basic, is a testament to the power of a single line of code to speak to the heart of every coder, a universal greeting from the world of programming.
 
-The repository, tucked away in the vast expanse of the digital realm, is a reminder that even in the most complex and sophisticated realms of code, there is always a place for simplicity and the echoing whisper of a humble "Hello, World!"
+The repository, tucked away in the vast expanse of the digital realm, is a reminder that even in the most complex and sophisticated realms of code, there is always a place for simplicity and the echoing whisper of a humble "Hello, World!".
